@@ -4,10 +4,6 @@ title: "数据结构基础知识篇"
 categories: structure
 ---
 
-
-![思维导图](/assets/images/blogs/2022-02-19_datastructure.svg)
-
-
 ### 1、 数据（Data）
 数据是信息的载体，它能够被计算机识别、存储和加工处理。在计算机科学中，所谓数据就是计算机加工处理的对象，它可以是数值数据，也可以是非数值数据。
 
@@ -106,3 +102,6 @@ categories: structure
 **2.算法空间复杂度**  
 指执行这个算法所需要的内存空间。  
 定义：是对一个算法在运行过程中临时占用存储空间大小的量度，记做S (n)=O (f (n))。
+
+
+![思维导图](/assets/images/blogs/2022-02-19_datastructure.jpg)
